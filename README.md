@@ -1,4 +1,4 @@
-# hw1. generate PAM<sub>x</sub> matrix
+# pro1. generate PAM<sub>x</sub> matrix
 * your name
 * student ID
 
